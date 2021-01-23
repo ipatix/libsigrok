@@ -74,4 +74,3 @@ Description: sigrok hardware driver library - shared library
  drivers for logic analyzers, as well as input/output file format support.
  .
  This package contains the C++ shared library.
-

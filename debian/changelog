@@ -3,6 +3,7 @@ libsigrok (0.5.2-4) UNRELEASED; urgency=medium
   * Lintian inspired cleanups:
     * Remove duplicated "Section" field from libsigrok4/libsigrokcxx4.
     * Use HTTPS URL in watch file.
+    * Remove trailing whitespace in debian/{changelog,control}.
 
  -- Jonathan McDowell <noodles@earth.li>  Sat, 23 Jan 2021 13:50:25 +0000
 
@@ -24,7 +25,7 @@ libsigrok (0.5.2-1) unstable; urgency=medium
   * New upstream release.
     + Add libbluetooth-dev + libhidapi-dev build deps
   * Update debian/copyright.
-  
+
  -- Jonathan McDowell <noodles@earth.li>  Fri, 27 Dec 2019 10:45:08 +0000
 
 libsigrok (0.5.1-1) unstable; urgency=medium
