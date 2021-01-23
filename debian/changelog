@@ -2,6 +2,7 @@ libsigrok (0.5.2-4) UNRELEASED; urgency=medium
 
   * Lintian inspired cleanups:
     * Remove duplicated "Section" field from libsigrok4/libsigrokcxx4.
+    * Use HTTPS URL in watch file.
 
  -- Jonathan McDowell <noodles@earth.li>  Sat, 23 Jan 2021 13:50:25 +0000
 
