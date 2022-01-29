@@ -1,2 +1,4 @@
 lib/udev/rules.d/*sigrok*
 usr/lib/*/libsigrok.so.*
+usr/share/icons/hicolor/*/mimetypes/libsigrok.*
+usr/share/mime/packages/*sigrok*

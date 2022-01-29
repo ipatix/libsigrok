@@ -1,10 +1,14 @@
 libsigrok (0.5.2-4) UNRELEASED; urgency=medium
 
+  [ Jonathan McDowell ]
   * Lintian inspired cleanups:
     * Remove duplicated "Section" field from libsigrok4/libsigrokcxx4.
     * Use HTTPS URL in watch file.
     * Remove trailing whitespace in debian/{changelog,control}.
     * Bump debhelper compat level to 12.
+
+  [ Maksim Salau ]
+  * Make use of icons and the mime type
 
  -- Jonathan McDowell <noodles@earth.li>  Sat, 23 Jan 2021 13:50:25 +0000
 
