@@ -3,7 +3,7 @@ Priority: optional
 Maintainer: Debian Electronics Packaging Team <pkg-electronics-devel@alioth-lists.debian.net>
 Uploaders: Jonathan McDowell <noodles@earth.li>
 Build-Depends: check,
-	debhelper-compat (= 12),
+	debhelper-compat (= 13),
 	doxygen,
 	libbluetooth-dev,
 	libftdi1-dev,

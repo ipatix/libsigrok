@@ -5,7 +5,7 @@ libsigrok (0.5.2-4) UNRELEASED; urgency=medium
     * Remove duplicated "Section" field from libsigrok4/libsigrokcxx4.
     * Use HTTPS URL in watch file.
     * Remove trailing whitespace in debian/{changelog,control}.
-    * Bump debhelper compat level to 12.
+    * Bump debhelper compat level to 13.
     * Fix copyright file to only use globs.
 
   [ Maksim Salau ]
