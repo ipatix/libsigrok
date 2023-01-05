@@ -7,6 +7,7 @@ libsigrok (0.5.2-4) UNRELEASED; urgency=medium
     * Remove trailing whitespace in debian/{changelog,control}.
     * Bump debhelper compat level to 13.
     * Fix copyright file to only use globs.
+  * Update Standards-Version to 4.6.2
 
   [ Maksim Salau ]
   * Make use of icons and the mime type
