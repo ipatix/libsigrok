@@ -8,6 +8,7 @@ libsigrok (0.5.2-4) UNRELEASED; urgency=medium
     * Bump debhelper compat level to 13.
     * Fix copyright file to only use globs.
   * Update Standards-Version to 4.6.2
+  * Ignore not-installed .la files
 
   [ Maksim Salau ]
   * Make use of icons and the mime type
